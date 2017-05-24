@@ -1,0 +1,15 @@
+{
+  "name": "small-webserver",
+  "version": "1.0.0",
+  "description": "Small Webserver done with node and express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan De Jesus",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}

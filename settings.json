@@ -1,0 +1,6 @@
+{
+  "serverHost":"localhost",
+  "serverPort":"8000",
+  "fileServerLocalFolder":"",
+  "fileServerRoute":"/files/*"
+}
